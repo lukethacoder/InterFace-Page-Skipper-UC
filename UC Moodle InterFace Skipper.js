@@ -10,6 +10,6 @@
 
 (function() {
     'use strict'; 
-    // Your code here...
+    // Magic below :P
     location.href = "https://learnonline.canberra.edu.au/login/index.php?authCAS=CAS";
 })();
