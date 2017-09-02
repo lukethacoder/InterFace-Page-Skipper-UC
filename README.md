@@ -1,8 +1,10 @@
-# InterFace-Skipper-UC INSTAL
-Download the Tampermonkey addon - http://tampermonkey.net/index.php?ext=dhdg
+# InterFace-Page-Skipper-UC Install
+<ol>
+  <li>Download the <a href="http://tampermonkey.net/index.php?ext=dhdg">Tampermonkey addon</a></li>
 
-Create New Script
+  <li>Create New Script</li>
 
-Copy and Paste all code from "UC Moodle InterFace Skipper.js" - https://github.com/lukethadrummer/InterFace-Skipper-UC-/blob/master/UC%20Moodle%20InterFace%20Skipper.js
+  <li>Copy and Paste all code from "UC Moodle InterFace Skipper.js"</li>
 
-Load up the page and watch the magic happen
+  <li>Load up the page and watch the magic happen</li>
+</ol>
