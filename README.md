@@ -8,3 +8,5 @@
 
   <li>Load up the page and watch the magic happen</li>
 </ol>
+
+*-still works with the new UC moodle login system-*
